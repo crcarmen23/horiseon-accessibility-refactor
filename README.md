@@ -1,4 +1,4 @@
-# <Horiseon-Accessibility-Refactor>
+# Horiseon Accessibility Refactor
 
 ## Description
 
