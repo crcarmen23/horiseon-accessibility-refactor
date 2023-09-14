@@ -42,7 +42,7 @@ header ul li {
     margin-left: 25px;
 }
 
-link {
+a {
     color: #ffffff;
     text-decoration: none;
 }
@@ -103,7 +103,7 @@ p {
     max-width: 150px;
 }
 /*Main Sections Styles*/
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
