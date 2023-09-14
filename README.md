@@ -12,6 +12,8 @@ N/A
 
 This website can be used to read about Horiseon's social solution services and the benefits a customer may gain from working with Horiseon.
 
+[Link to Horiseon webpage](https://crcarmen23.github.io/horiseon-accessibility-refactor/)
+
 ![screenshot](assets/images/screenshot.png)
 
 
