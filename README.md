@@ -12,6 +12,9 @@ N/A
 
 This website can be used to read about Horiseon's social solution services and the benefits a customer may gain from working with Horiseon.
 
+![screenshot](assets/images/screenshot.png)
+
+
 ## Credits
 
 Collaborated with Leif Hetland and coding bootcamp peers during office hours
