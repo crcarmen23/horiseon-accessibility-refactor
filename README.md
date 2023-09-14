@@ -17,7 +17,7 @@ This website can be used to read about Horiseon's social solution services and t
 
 ## Credits
 
-Collaborated with Leif Hetland and coding bootcamp peers during office hours
+Collaborated with Leif Hetland and coding bootcamp peers during office hours.
 
 ## License
 
